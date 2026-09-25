@@ -1,0 +1,6 @@
+ghidra_project/
+gvcidrv64_decomp.c
+WRITEUP.md
+img/
+*.exe
+GVCIDrv64.sys
